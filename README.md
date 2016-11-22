@@ -1,6 +1,6 @@
 # Hello-World
 Test Repository
 
-Sharmishtha Change the file.
+Test Proejct for understanding GitHub.
 
-Code review must be done.
+More details can be added here.
